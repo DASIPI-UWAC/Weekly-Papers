@@ -12,7 +12,7 @@
 8. 阵列信号处理
 
 # 文件目录
-2020
+1.20210802 - Frequency-Domain Decision Feedback Equalization for Single-Carrier Transmissions in Fast Time-Varying Underwater Acoustic Channel
 
 # 联系邮箱
 xiaop5140@gmail.com
