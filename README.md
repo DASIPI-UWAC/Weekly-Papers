@@ -12,7 +12,8 @@
 8. 阵列信号处理
 
 # 文件目录
-1.20210802 - Frequency-Domain Decision Feedback Equalization for Single-Carrier Transmissions in Fast Time-Varying Underwater Acoustic Channel
+1.20210802-SC-FDE - 单载波的频域均衡相关论文
+2.20210807-MT-FSK - 这个文件目录主要加入了Multiple tone FSK的相关论文，近期着重看这些论文
 
 # 联系邮箱
 xiaop5140@gmail.com
